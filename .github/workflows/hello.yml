@@ -9,4 +9,10 @@ jobs:
      steps:
        - name: Greet
          run: echo "Hello from Github Actions"
+
+       - name:  ask
+         run: echo "How are you"
+
+       - name: tell
+         run: echo "you gone get what you want"
      
